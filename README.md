@@ -6,6 +6,8 @@ Created by Aerospace911#9828 with the help of TopThreePlayz#9422 and Fashoomp#90
 
 Code refactoring and flask implementation by technokowski
 
+Here is a working example of the site: https://ailovebot.pythonanywhere.com/form
+
 
 ## Directions:
 A user will input values of items at the **Starbase** and **Megabase**, and math magic then returns recommendations on what to sell and buy at these bases.
